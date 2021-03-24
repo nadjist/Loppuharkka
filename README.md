@@ -1,0 +1,2 @@
+# Loppuharkka
+JavaScript-kurssin lopputyö
